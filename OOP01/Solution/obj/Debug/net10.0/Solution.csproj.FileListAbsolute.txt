@@ -1,0 +1,14 @@
+c:\Users\hp\Desktop\ROUTE\03 OOP\Session 01\Assignment\OOP01\Solution\bin\Debug\net10.0\Solution.exe
+c:\Users\hp\Desktop\ROUTE\03 OOP\Session 01\Assignment\OOP01\Solution\bin\Debug\net10.0\Solution.deps.json
+c:\Users\hp\Desktop\ROUTE\03 OOP\Session 01\Assignment\OOP01\Solution\bin\Debug\net10.0\Solution.runtimeconfig.json
+c:\Users\hp\Desktop\ROUTE\03 OOP\Session 01\Assignment\OOP01\Solution\bin\Debug\net10.0\Solution.dll
+c:\Users\hp\Desktop\ROUTE\03 OOP\Session 01\Assignment\OOP01\Solution\bin\Debug\net10.0\Solution.pdb
+c:\Users\hp\Desktop\ROUTE\03 OOP\Session 01\Assignment\OOP01\Solution\obj\Debug\net10.0\Solution.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\hp\Desktop\ROUTE\03 OOP\Session 01\Assignment\OOP01\Solution\obj\Debug\net10.0\Solution.AssemblyInfoInputs.cache
+c:\Users\hp\Desktop\ROUTE\03 OOP\Session 01\Assignment\OOP01\Solution\obj\Debug\net10.0\Solution.AssemblyInfo.cs
+c:\Users\hp\Desktop\ROUTE\03 OOP\Session 01\Assignment\OOP01\Solution\obj\Debug\net10.0\Solution.csproj.CoreCompileInputs.cache
+c:\Users\hp\Desktop\ROUTE\03 OOP\Session 01\Assignment\OOP01\Solution\obj\Debug\net10.0\Solution.dll
+c:\Users\hp\Desktop\ROUTE\03 OOP\Session 01\Assignment\OOP01\Solution\obj\Debug\net10.0\refint\Solution.dll
+c:\Users\hp\Desktop\ROUTE\03 OOP\Session 01\Assignment\OOP01\Solution\obj\Debug\net10.0\Solution.pdb
+c:\Users\hp\Desktop\ROUTE\03 OOP\Session 01\Assignment\OOP01\Solution\obj\Debug\net10.0\Solution.genruntimeconfig.cache
+c:\Users\hp\Desktop\ROUTE\03 OOP\Session 01\Assignment\OOP01\Solution\obj\Debug\net10.0\ref\Solution.dll
